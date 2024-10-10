@@ -42,10 +42,10 @@ Ensure you connect the components as follows:
 
 3. **Upload the Code**
 
-1. Open the Arduino IDE.
-2. Open the `Arduino_code.ino` file from this repository.
-3. Select the appropriate board and port from the **Tools** menu.
-4. Click **Upload** to upload the code to the Arduino.
+- Open the Arduino IDE.
+- Open the `Arduino_code.ino` file from this repository.
+- Select the appropriate board and port from the **Tools** menu.
+- Click **Upload** to upload the code to the Arduino.
 
 ## Contributing
 

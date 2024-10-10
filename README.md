@@ -35,12 +35,12 @@ Ensure you connect the components as follows:
    git clone https://github.com/DTUOpenAM/OpenVPP_Firmware.git
    cd OpenVPP_Software
    
-2. ## Configure Parameters
+2. **Configure Parameters**
 
 - Modify the code to fit your specific setup, including motor steps, delays, motor connections, and driver connections.
 - Ensure all settings are adjusted for your unique configuration.   
 
-3. ## Upload the Code
+3. **Upload the Code**
 
 1. Open the Arduino IDE.
 2. Open the `Arduino_code.ino` file from this repository.
